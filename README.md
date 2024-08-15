@@ -52,9 +52,10 @@ java banco.Main
 ## Requisitos
 Java 8+: Certifique-se de ter o Java Development Kit (JDK) instalado na sua máquina.
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
-
 ## Imagens do sistema:
 ![Captura de Tela (66)](https://github.com/user-attachments/assets/58634962-852d-4e4d-8f37-c01b9b8c4db9)
+
+## Contribuição
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
+Projeto para fins de estudo acadêmico em Java.
 
